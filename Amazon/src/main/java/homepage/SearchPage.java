@@ -1,4 +1,4 @@
-package search;
+package homepage;
 
 import base.CommonAPI;
 import org.openqa.selenium.Keys;
@@ -9,7 +9,6 @@ import org.openqa.selenium.support.PageFactory;
 import utility.reporting.TestLogger;
 
 import java.io.IOException;
-import java.io.InterruptedIOException;
 
 /**
  * Created by PIIT_NYA on 5/14/2017.

@@ -11,15 +11,18 @@
         <module name="NYP" />
         <module name="Upscalelearning" />
         <module name="W3Schools" />
+        <module name="worldbank" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Amazon" target="1.8" />
+      <module name="Bank" target="1.8" />
       <module name="Generic" target="1.8" />
       <module name="NYP" target="1.8" />
       <module name="PntAutomation" target="1.8" />
       <module name="Upscalelearning" target="1.8" />
       <module name="W3Schools" target="1.8" />
+      <module name="worldbank" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
